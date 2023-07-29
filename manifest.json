@@ -1,0 +1,17 @@
+{
+    "id": "pwa_ajs",
+    "name": "PWA Web App",
+    "short_name": "PWA",
+    "start_url": ".",
+    "background_color": "#999",
+    "theme_color": "#ccc",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image\/png",
+            "density": "3.0"
+        }
+    ]
+}
